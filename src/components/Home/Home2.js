@@ -50,6 +50,9 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+            <p style={{ fontStyle: 'italic' }}>
+              jeffwensley.work@gmail.com     |     (+63)91-8554-9671
+            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
