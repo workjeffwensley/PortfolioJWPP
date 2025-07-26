@@ -45,6 +45,36 @@ function About() {
         </h1>
         <Toolstack />
 
+       <div className="about-achievements">
+          <h2>Achievements</h2>
+      <div className="achievements-carousel-wrapper">
+          <Carousel interval={3000} pause="hover">
+          <Carousel.Item>
+          <img
+          className="d-block achievements-img"
+          src={achievement1}
+          alt="Achievement 1"
+        />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block achievements-img"
+          src={achievement2}
+          alt="Achievement 2"
+        />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block achievements-img"
+          src={achievement3}
+          alt="Achievement 3"
+        />
+      </Carousel.Item>
+    </Carousel>
+  </div>
+</div>
+    <br></br>
+    <br></br>
         <Github />
       </Container>
     </Container>
