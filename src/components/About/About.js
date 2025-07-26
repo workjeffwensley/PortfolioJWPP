@@ -1,9 +1,12 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Carousel } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
+import achievement1 from "../../Assets/achievements/achievement1.png";
+import achievement2 from "../../Assets/achievements/achievement2.png";
+import achievement3 from "../../Assets/achievements/achievement3.png";
 import laptopImg from "../../Assets/home-about1.png";
 import Toolstack from "./Toolstack";
 
