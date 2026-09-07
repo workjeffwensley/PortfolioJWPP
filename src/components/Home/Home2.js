@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a recent Information Technology graduate with a passion for Full-Stack Development, UI/UX Design, and Data Encoding. I enjoy building functional, user-friendly, and visually engaging digital experiences while ensuring that information is organized, accurate, and efficiently managed.
+            I am an Information Technology graduate with a passion for Full-Stack Development, UI/UX Design, and Data Encoding. I enjoy building functional, user-friendly, and visually engaging digital experiences while ensuring that information is organized, accurate, and efficiently managed.
               <br />
               <br />I have experience working with technologies such as
               <i>
