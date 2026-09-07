@@ -7,7 +7,7 @@ import Aboutcard from "./AboutCard";
 import achievement1 from "../../Assets/achievements/achievement1.png";
 import achievement2 from "../../Assets/achievements/achievement2.png";
 import achievement3 from "../../Assets/achievements/achievement3.png";
-import laptopImg from "../../Assets/home-about1.png";
+import laptopImg from "../../Assets/AboutMe.jpg";
 import Toolstack from "./Toolstack";
 
 function About() {
