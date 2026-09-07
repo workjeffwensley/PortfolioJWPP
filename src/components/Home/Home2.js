@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I have experience working with technologies such as
               <i>
-                <b className="purple"> C#, JavaScript, Node.js, and React.js </b>on the front end, and <b className="purple">Firebase, MySQL, and MongoDB </b>on the back end. 
+                <b className="purple"> C#, JavaScript, Node.js, and React.js </b>on the front end, and <b className="purple">Firebase, MySQL, and MongoDB </b>on the back end. I also have an interest in technical troubleshooting, system support, and assisting users with IT-related concerns.
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">inventory systems</b> and <b className="purple">
                request-processing platforms </b>
                 for both web and mobile.
-                I also have experience with <b className="purple"> data entry</b> and <b className="purple"> management</b>, allowing me to combine technical skills with accuracy, organization, and attention to detail.
+                I also have experience with <b className="purple"> data entry</b> and <b className="purple"> management</b>, allowing me to combine technical skills and support with accuracy, organization, problem-solving and attention to detail. 
               </i>
               <br />
               <br />
