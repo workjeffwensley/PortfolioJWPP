@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">inventory systems</b> and <b className="purple">
                request-processing platforms </b>
                 for both web and mobile.
-                I also have experience with <b className="purple"> data entry</b> and <b className="purple"> management</b>, , allowing me to combine technical skills with accuracy, organization, and attention to detail.
+                I also have experience with <b className="purple"> data entry</b> and <b className="purple"> management</b>, allowing me to combine technical skills with accuracy, organization, and attention to detail.
               </i>
               <br />
               <br />
