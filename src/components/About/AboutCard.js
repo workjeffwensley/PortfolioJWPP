@@ -11,8 +11,6 @@ function AboutCard() {
             Hi! I am <span className="purple">Jeff Wensley Panisa Patrimonio </span>
             from <span className="purple"> Negros Occidental, Philippines.</span>
             <br />
-            I am currently unemployed as a fullstack and software developer.
-            <br />
             I have completed Bachelor's Degree in Information Technology at STI West Negros University.
             <br />
             <br />
