@@ -19,20 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a recent IT graduate and a full-stack developer with proficiency in both front-end and back-end development.
+            I am a recent Information Technology graduate with a passion for Full-Stack Development, UI/UX Design, and Data Encoding. I enjoy building functional, user-friendly, and visually engaging digital experiences while ensuring that information is organized, accurate, and efficiently managed.
               <br />
-              <br />I work with technologies like
+              <br />I have experience working with technologies such as
               <i>
                 <b className="purple"> C#, JavaScript, Node.js, and React.js </b>on the front end, and <b className="purple">Firebase, MySQL, and MongoDB </b>on the back end. 
               </i>
               <br />
               <br />
-              I have experience building modern web applications, &nbsp;
+              Throughout my projects, I have developed modern applications such as &nbsp;
               <i>
               including &nbsp; 
-                <b className="purple">inventory systems </b> and <b className="purple">
-                request/processing portals </b>
-                for both web and mobile platforms
+                <b className="purple">inventory systems</b> and <b className="purple">
+               request-processing platforms </b>
+                for both web and mobile.
+                I also have experience with <b className="purple"> data entry</b> and <b className="purple"> management</b>, , allowing me to combine technical skills with accuracy, organization, and attention to detail.
               </i>
               <br />
               <br />
