@@ -1,0 +1,6 @@
+1. Update dependencies first
+- npm install
+2. Start the website
+- npm run start
+3. Go to this website
+- http://localhost:3000
