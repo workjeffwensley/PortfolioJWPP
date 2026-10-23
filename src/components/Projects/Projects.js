@@ -31,7 +31,7 @@ function Projects() {
               <br />
                Document Processing Portal
               <br />
-              (Both Website and Mobile)
+              (Cross-platform)
             </h2>
             <video
               src={digibarVideo}
