@@ -15,7 +15,7 @@ function Projects() {
       <Container>
         {/* Video Highlight Section */}
         <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-          Video <strong className="purple">Highlight </strong>
+          Video <strong className="purple">Highlights </strong>
         </h1>
         <div
           style={{
